@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navtop{
+    width: 1470px;
+    height: 50px;
+    background-color: rgb(78, 74, 74);
+    display: flex;
+}
+h6{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.search{
+    margin-left: 200px;
+    font-size: 20px;
+    color: rgb(233, 35, 35);
+    display: flex;
+    padding-left: 20px;
+}
+.search-btn{
+   margin-top: 10px;
+   padding: 10px;
+   width: 40px;
+   height: 40px;
+   border-radius: 50%;
+}
+.mic{
+    margin-top: 10px;
+    padding: 10px;
+    width: 40px;
+   height: 40px;
+    border-radius: 50%;
+}
+
+input{
+    margin-top: 10px;
+   height: 30px;
+   width: 515px;
+   border-radius: 30px;
+}
+.side{
+    margin-top: 10px;
+    margin-left: 150px;
+    color: white;
+    border: 2px solid white;
+    background-color: gray;
+    padding-top: 5px;
+    padding-left: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+}
+.bell{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+.profile{
+    margin-top: 10px;
+    font-size: 25px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 2px solid wheat;
+    background-color: rgb(33, 99, 157);
+}
+.hi{
+    display: flex;
+}
+.leftnav{
+    width: 280px;
+    height: 800px;
+    border: 2px solid black;
+}
+p{
+    margin-top: 5px;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.rightnav{
+    border: 2px solid black;
+    height:800px;
+    width: 1400px;
+}
+.top{
+    display: flex;
+    margin: 10px;
+}
+h4{
+    padding: 5px;
+    border: 2px solid black;
+    background-color: gray;
+    margin-left: 15px;
+}
+img{
+    height:200px;
+    width: 380px;
+}
+.box1{
+    margin-top: 40px;
+    display: flex;
+}
+h3{
+    padding: 5px;
+}
+
+.part{
+    margin-left: 20px;
+    border: 2px solid black;
+    height:300px;
+    width: 380px;
+    margin-left: 20px;
+}
+.box2{
+    display: flex;
+    margin-top: 40px;
+}
+
